@@ -1,0 +1,14 @@
+/Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/deps/thiserror-80b4578938549e9d.d: /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/build/thiserror-e8665c7f924fbdb1/out/private.rs
+
+/Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/deps/libthiserror-80b4578938549e9d.rlib: /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/build/thiserror-e8665c7f924fbdb1/out/private.rs
+
+/Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/deps/libthiserror-80b4578938549e9d.rmeta: /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/build/thiserror-e8665c7f924fbdb1/out/private.rs
+
+/Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/Users/robbarlow/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/build/thiserror-e8665c7f924fbdb1/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/robbarlow/Dev/Repos/nanobot-simulator/simulation/target/debug/build/thiserror-e8665c7f924fbdb1/out
